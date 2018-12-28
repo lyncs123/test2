@@ -1,5 +1,18 @@
 <?php
 
+// php の　テストでやっている。
+//
+//
+//
+
+
+
+
+print "";
+print ""
+
+
+
 mb_language("Japanese");
 
 $pCoco = $_GET['coco'];
