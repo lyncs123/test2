@@ -11,10 +11,9 @@ print "";
 
 fwefwef
 
-
-
-
 print "asdasd";
+
+print
 
 
 print "dasdasdasda";
@@ -33,11 +32,6 @@ print "7";
 print "8";
 
 print "9";
-
-
-
-
-
 
 
 mb_language("Japanese");
