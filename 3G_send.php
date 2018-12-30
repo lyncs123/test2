@@ -19,6 +19,10 @@ print
 ygygygyy
 
 
+oprint "ssss";
+
+
+
 
 print "dasdasdasda";
 
