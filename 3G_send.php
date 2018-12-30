@@ -18,8 +18,8 @@ print
 
 ygygygyy
 
-print "20181230 test 新幹線からの帰り"
-
+print "20181230 test 新幹線からの帰り";
+print "20181230 test 新幹線からの２";
 
 oprint "ssss";
 
