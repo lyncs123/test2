@@ -21,6 +21,7 @@ ygygygyy
 
 oprint "ssss";
 
+print "test2";
 
 
 
